@@ -1,5 +1,5 @@
 # couchbase_server-syncgateway-couchbase_lite
-[![My Skills](https://skills.thijs.gg/icons?i=aws,java,hibernate,idea,couchbase,github&theme=light)](https://skills.thijs.gg)
+[![My Skills](https://skills.thijs.gg/icons?i=aws,java,hibernate,idea,couchbase,spring&theme=light)](https://skills.thijs.gg)
 couchbase server syncgateway couchbase_lite
 
 Nedir Ne Değildir Bahsedelim Tabii ki :)
