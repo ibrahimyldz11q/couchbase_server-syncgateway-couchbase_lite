@@ -1,4 +1,3 @@
-# couchbase_server-syncgateway-couchbase_lite
 [![My Skills](https://skills.thijs.gg/icons?i=aws,java,hibernate,idea,spring&theme=light)](https://skills.thijs.gg)
 couchbase server syncgateway couchbase_lite
 
